@@ -428,7 +428,6 @@ repositories = [
 'https://github.com/niftsy',
 'https://github.com/gitshock-labs',
 'https://github.com/InfinityWallet',
-'https://github.com/lucylow',
 'https://github.com/Foxlottery',
 'https://github.com/CivilizationCIV',
 'https://github.com/unipilot',
